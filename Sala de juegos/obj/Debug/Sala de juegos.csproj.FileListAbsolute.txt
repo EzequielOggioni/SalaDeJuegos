@@ -1,0 +1,11 @@
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\bin\Debug\Sala de juegos.exe.config
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\bin\Debug\Sala de juegos.exe
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\bin\Debug\Sala de juegos.pdb
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala de juegos.csprojAssemblyReference.cache
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala_de_juegos.Properties.Resources.resources
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala de juegos.csproj.GenerateResource.cache
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala de juegos.csproj.CoreCompileInputs.cache
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala de juegos.exe
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala de juegos.pdb
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala_de_juegos.FrmPrincipal.resources
+C:\Users\egos2\source\repos\Sala de juegos\Sala de juegos\obj\Debug\Sala_de_juegos.FrmAdivinaNumero.resources
